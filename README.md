@@ -48,7 +48,7 @@
 * [Firecard Landing Page](http://www.firecart.io/software/marketing/landing-pages-creator): Drag and drop landing page designer tool that help you build SEO and mobile optimized landing pages for website and Facebook lead capture.
 * [BitBlox](https://www.bitblox.me): Build beautiful landing pages with no coding skills. No credit card required!
 * [Ucraft](https://www.ucraft.com/free-landing-page-creator): Create your own 1 page website in under 10 minutes with our powerful and free landing page creator.
-* [Undelay:](http://undelay.io/&sa=D&ust=1507602582957000&usg=AFQjCNELZgxECGI5KSCJdro-qJpusVK3bw) Adaptive builder that lets you deliver separate funnels to desktop, tablet, and mobile devices.
+* [Undelay:](http://undelay.io) Adaptive builder that lets you deliver separate funnels to desktop, tablet, and mobile devices. **link broken**
 * [Ontrapages](https://ontrapages.com): Free landing pages made simple.
 * [Xtensio](https://xtensio.com/landing-page): Free forever landing page creator.
 * [Formstack](https://www.formstack.com): Intelligent forms for every team.
