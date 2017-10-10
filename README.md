@@ -1,4 +1,15 @@
-# Landing Pages and Other Marketing Resources
+# Awesome List of Landing Pages and Other Marketing Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
+## Table of contents
+
+  * [Landing page creation/platform](#Landing-page-creation-platform)
+  * [Analytics](#Analytics)
+  * [Landing Page Themes, Templates, and Plugins](#Landing-Page-Themes-Templates-and-Plugins)
+  * [User Experience, Testing, and Optimization Tools](#User-Experience-Testing-and-Optimization-Tools)
+  * [Blogs](#Blogs)
+  * [Broadcasts and Presentations](#Broadcasts-and-Presentations)
+  * [Books](#Books)
 
 ## Landing page creation/platform
 
@@ -155,4 +166,3 @@
 
 * [Landing Page Optimization](https://www.google.com/url?q=https://books.google.com.ph/books/about/Landing_Page_Optimization.html?id%3DpnL4JRg7z1cC%26source%3Dkp_cover%26redir_esc%3Dy&sa=D&ust=1507602583004000&usg=AFQjCNFB-z6ANZkwPnBDvUyuGbFuF5pp2Q): A fully updated guide to making your landing pages profitable.
 * [The Conversion Code](https://www.google.com/url?q=https://www.amazon.com/Conversion-Code-Capture-Internet-Appointments/dp/1119211883/ref%3Dsr_1_2?s%3Dbooks%26ie%3DUTF8%26qid%3D1506243860%26sr%3D1-2%26keywords%3Dlanding%2Bpage&sa=D&ust=1507602583005000&usg=AFQjCNE2kE1t3IbYhW7Tws0qZ_N5LWJGbw): Capture and close more Internet leads with a new sales script and powerful marketing templates.
-
