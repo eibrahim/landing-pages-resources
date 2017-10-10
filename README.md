@@ -83,7 +83,8 @@
 * [Keyword Landing Page Generator](https://www.google.com/url?q=https://codecanyon.net/item/keyword-landing-page-generator/14141392&sa=D&ust=1507602582977000&usg=AFQjCNGQ7lOt1ejwjHIs_-cuHNN-mDpfwg): The most effective sales plugin for Wordpress!
 * [Special Prices](https://www.google.com/url?q=https://codecanyon.net/item/special-prices-promotions-landing-page/18915073&sa=D&ust=1507602582977000&usg=AFQjCNFrnA8_CdwVbjKTIl3QF3Kqqydreg): Prepare your shop for any promotion event and create a landing page with all products that have a reduced price.
 * [WP Procount](https://www.google.com/url?q=https://codecanyon.net/item/wp-procount-responsive-countdown-landing-page/5865395&sa=D&ust=1507602582978000&usg=AFQjCNHtmbpKVGVBoYJexHxRZyByg4MbSQ): A minimalistic, lightweight, simple, clean and fully responsive mobile friendly landing page Wordpress plugin.
-* [Landing Page by Web Settler](https://www.google.com/url?q=https://wordpress.org/plugins/ultimate-landing-page/&sa=D&ust=1507602582978000&usg=AFQjCNHktNAGHWk3kzLkHJ1rvFkFthMFeQ): Cr eate beautiful and high converting landing pages in mere minutes without writing a single line of code.
+* [Landing Page by Web Settler](https://www.google.com/url?q=https://wordpress.org/plugins/ultimate-landing-page/&sa=D&ust=1507602582978000&usg=AFQjCNHktNAGHWk3kzLkHJ1rvFkFthMFeQ): Create beautiful and high converting landing pages in mere minutes without writing a single line of code.
+* [Lapa Ninja](https://www.google.com/url?q=https://lapa.ninja): The Best Landing Page Inspiration.
 
 ## User Experience, Testing, and Optimization Tools
 
