@@ -95,6 +95,7 @@
 * [Special Prices](https://codecanyon.net/item/special-prices-promotions-landing-page/18915073): Prepare your shop for any promotion event and create a landing page with all products that have a reduced price.
 * [WP Procount](https://codecanyon.net/item/wp-procount-responsive-countdown-landing-page/5865395): A minimalistic, lightweight, simple, clean and fully responsive mobile friendly landing page Wordpress plugin.
 * [Landing Page by Web Settler](https://wordpress.org/plugins/ultimate-landing-page): Cr eate beautiful and high converting landing pages in mere minutes without writing a single line of code.
+[Lapa Ninja](https://lapa.ninja): The Best Landing Page Inspiration.
 
 ## User Experience, Testing, and Optimization Tools
 
