@@ -13,6 +13,7 @@
 
 ## Landing page creation/platform
 
+* [Landing Lion](https://www.landinglion.com): Build galaxies of landing pages.
 * [Unbounce](https://unbounce.com): Build landing pages fast get more conversions.
 * [Instapage](https://instapage.com): A powerful landing page platform for marketing agencies
 * [Leadpages](https://www.leadpages.net): Dubbed as the #1 landing page builder.
@@ -33,7 +34,6 @@
 * [Wishpond](https://www.wishpond.com/v3/landing-pages): Create and test beautiful and mobile-responsive landing pages in minutes.
 * [Wix](https://www.wix.com): Create stunning website and landing pages easy and free.
 * [Mobirise](https://mobirise.com): Create awesome and mobile-friendly websites with no coding.
-* [Landing Lion](https://www.landinglion.com): Build a galaxy of landing pages.
 * [Simply Cast](https://www.simplycast.com/software/landing-page-generator): E asily create your own landing pages to engage and convert leads when you run special promotions, campaigns, events and contests.
 * [Lead Barrel](http://leadbarrel.com): Build fast, effective marketing funnels for your business.
 * [Megaphone](https://www.megaphoneapp.com): The easiest way to build marketing pages.
