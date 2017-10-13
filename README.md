@@ -48,7 +48,7 @@
 * [Firecard Landing Page](http://www.firecart.io/software/marketing/landing-pages-creator): Drag and drop landing page designer tool that help you build SEO and mobile optimized landing pages for website and Facebook lead capture.
 * [BitBlox](https://www.bitblox.me): Build beautiful landing pages with no coding skills. No credit card required!
 * [Ucraft](https://www.ucraft.com/free-landing-page-creator): Create your own 1 page website in under 10 minutes with our powerful and free landing page creator.
-* [Undelay:](http://undelay.io) Adaptive builder that lets you deliver separate funnels to desktop, tablet, and mobile devices. **link broken**
+* [Undelay:](http://undelay.io) Adaptive builder that lets you deliver separate funnels to desktop, tablet, and mobile devices. **link broken**
 * [Ontrapages](https://ontrapages.com): Free landing pages made simple.
 * [Xtensio](https://xtensio.com/landing-page): Free forever landing page creator.
 * [Formstack](https://www.formstack.com): Intelligent forms for every team.
@@ -59,7 +59,7 @@
 * [Crazy Egg](https://www.crazyegg.com): Find out how users/visitors click and scroll through your landing page/site.
 * [Twik](https://www.twik.io): All-in one analytics and personalization tools for landing pages.
 * [Click Heat](https://www.dugwood.com/clickheat/index.html): A visual heat map for landing pages.
-* [Mixpanel](https://mixpanel.com): Analyzes user's  journey throughout landing pages.
+* [Mixpanel](https://mixpanel.com): Analyzes user's  journey throughout landing pages.
 * [Hotjar](https://www.hotjar.com): Easily understand how your mobile and web visitors behave in your landing page or site.
 * [Mouseflow](https://mouseflow.com): See how users behave in your page.
 * [Session Cam](https://sessioncam.com): Record users in your page in real time to understand behavior and increase sales.
@@ -67,7 +67,7 @@
 ## Landing Page Themes, Templates, and Plugins
 
 * [Onesie](https://graphpaperpress.com/blog/onesie-free-wordpress-theme-for-landing-pages): A free Wordpress theme in creating responsive landing pages.
-* [Optin Ninja](https://codecanyon.net/item/optin-ninja-ultimate-squeeze-page-generator/7615273): Create 2-step, highly optimized squeeze pages  in seconds.
+* [Optin Ninja](https://codecanyon.net/item/optin-ninja-ultimate-squeeze-page-generator/7615273): Create 2-step, highly optimized squeeze pages  in seconds.
 * [WP Lead Plus](http://wpleadplus.com): Build high converting landing pages and generate more leads.
 * [Template Monster](https://www.templatemonster.com/landing-page-templates.php): Easy and powerful landing page template system that turns traffic into money.
 * [One Page Love](https://onepagelove.com/templates/landing-page-templates): HTML and Wordpress themes. Create the perfect online presence for your business.
@@ -84,7 +84,7 @@
 * [Theme Grill](https://themegrill.com/blog/free-wordpress-landing-page-themes): Best free Wordpress landing pages themes and templates for 2017.
 * [Convertkit](https://convertkit.com/landing-page-samples): 4 landing page samples.
 * [Bootstrapious](https://bootstrapious.com/landing-pages): Stylish landing pages, fully responsive, and cross-browser compatible.
-* [Wordpress Landing Pages by Inbound Now](https://wordpress.org/plugins/landing-pages)://wordpress.org/plugins/leads/&sa=D&ust=1507602582973000&usg=AFQjCNFXIwkYoplWwW6sTxhgM3W58ULQFA) to create a powerful & free lead generation system for your business.
+* [Wordpress Landing Pages by Inbound Now](https://wordpress.org/plugins/landing-pages): create a powerful & free lead generation system for your business.
 * [WP Lead Plus](http://wpleadplus.com): Build high converting landing pages, generate more leads and more sales.
 * [Instabuilder](http://instabuilder.com/launch): A Wordpress plugin that enables anyone to create "guru" marketing pages in minutes.
 * [Impact Page Builder](http://impactpagebuilder.com): Give you total control over your pages and posts.
@@ -108,7 +108,7 @@
 * [Cross Browser Testing](https://crossbrowsertesting.com): Test your landing pages across different browsers.
 * [Five Second test](http://fivesecondtest.com): Measure first impressions of your page or website.
 * [User Testing](https://www.usertesting.com): Unlock customer insights and increase revenue.
-* [Optimizely:](https://www.optimizely.com/&sa=D&ust=1507602582983000&usg=AFQjCNGpcPvalCPFkz4wBOs_T-m7AHTxnQ) Experiment on everything about your landing page.
+* [Optimizely:](https://www.optimizely.com/&sa=D&ust=1507602582983000&usg=AFQjCNGpcPvalCPFkz4wBOs_T-m7AHTxnQ) Experiment on everything about your landing page.
 * [Visual Website Optimizer](https://vwo.com): A/B testing and conversion optimization platform.
 * [Convert](https://www.convert.com): A/B testing tools for landing pages and enterprises.
 * [Hello Bar](https://www.hellobar.com): A horizontal bar that appears on a page that helps convert more customers.
