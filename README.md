@@ -52,6 +52,7 @@
 * [Ontrapages](https://ontrapages.com): Free landing pages made simple.
 * [Xtensio](https://xtensio.com/landing-page): Free forever landing page creator.
 * [Formstack](https://www.formstack.com): Intelligent forms for every team.
+* [Strikingly](https://www.strikingly.com): Conquer The World With Just One Page.
 
 ## Analytics
 
