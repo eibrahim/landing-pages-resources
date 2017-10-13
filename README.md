@@ -168,3 +168,7 @@
 
 * [Landing Page Optimization](https://books.google.com.ph/books/about/Landing_Page_Optimization.html?id=pnL4JRg7z1cC&source=kp_cover&redir_esc=y): A fully updated guide to making your landing pages profitable.
 * [The Conversion Code](https://www.amazon.com/Conversion-Code-Capture-Internet-Appointments/dp/1119211883/ref=sr_1_2?s=books&ie=UTF8&qid=1506243860&sr=1-2&keywords=landing+page): Capture and close more Internet leads with a new sales script and powerful marketing templates.
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
