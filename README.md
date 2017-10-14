@@ -116,7 +116,6 @@
 * [Convert](https://www.convert.com): A/B testing tools for landing pages and enterprises.
 * [Hello Bar](https://www.hellobar.com): A horizontal bar that appears on a page that helps convert more customers.
 * [Closeheat](http://closeheat.com): Visual editing for landing pages.
-
 * [Smart Forms](https://www.reachforce.com/marketsmarter): Automate data collection and enrich web forms with high-quality data in real-time.
 * [Users Think](http://usersthink.com): Get user feedback from real people. Learn what works and what doesn't in your landing page.
 
