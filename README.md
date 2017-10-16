@@ -3,13 +3,13 @@
 
 ## Table of contents
 
-  * [Landing page creation/platform](#Landing-page-creation-platform)
-  * [Analytics](#Analytics)
-  * [Landing Page Themes, Templates, and Plugins](#Landing-Page-Themes-Templates-and-Plugins)
-  * [User Experience, Testing, and Optimization Tools](#User-Experience-Testing-and-Optimization-Tools)
-  * [Blogs](#Blogs)
-  * [Broadcasts and Presentations](#Broadcasts-and-Presentations)
-  * [Books](#Books)
+  * [Landing page creation/platform](#landing-page-creationplatform)
+  * [Analytics](#analytics)
+  * [Landing Page Themes, Templates, and Plugins](#landing-page-themes-templates-and-plugins)
+  * [User Experience, Testing, and Optimization Tools](#user-experience-testing-and-optimization-tools)
+  * [Blogs](#blogs)
+  * [Broadcasts and Presentations](#broadcasts-and-presentations)
+  * [Books](#books)
 
 ## Landing page creation/platform
 
