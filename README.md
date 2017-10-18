@@ -1,5 +1,6 @@
 # Awesome List of Landing Pages and Other Marketing Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+**Note:** [On Product Hunt](https://www.producthunt.com/posts/awesome-list-of-landing-pages-and-other-marketing-resources)
 
 ## Table of contents
 
