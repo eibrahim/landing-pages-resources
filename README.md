@@ -15,7 +15,7 @@
 ## Landing page creation/platform
 
 ### Most Popular five according to [g2crowd](https://www.g2crowd.com/categories/landing-page-builders?utf8=%E2%9C%93&order=popular)
-* [Instapage](https://instapage.com): A powerful landing page platform for marketing agencies
+* [Instapage](http://instapg.es/sq3LW): A powerful landing page platform for marketing agencies
 * [Unbounce](https://unbounce.com): Build landing pages fast get more conversions.
 * [Leadpages](https://www.leadpages.net): Dubbed as the #1 landing page builder.
 * [Landing Lion](https://www.landinglion.com): Build galaxies of landing pages.
