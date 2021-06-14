@@ -71,7 +71,6 @@
 ## Landing Page Themes, Templates, and Plugins
 
 * [Onesie](https://graphpaperpress.com/blog/onesie-free-wordpress-theme-for-landing-pages): A free Wordpress theme in creating responsive landing pages.
-* [Optin Ninja](https://codecanyon.net/item/optin-ninja-ultimate-squeeze-page-generator/7615273): Create 2-step, highly optimized squeeze pages  in seconds.
 * [WP Lead Plus](http://wpleadplus.com): Build high converting landing pages and generate more leads.
 * [Template Monster](https://www.templatemonster.com/landing-page-templates.php): Easy and powerful landing page template system that turns traffic into money.
 * [One Page Love](https://onepagelove.com/templates/landing-page-templates): HTML and Wordpress themes. Create the perfect online presence for your business.
