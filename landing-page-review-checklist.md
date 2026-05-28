@@ -4,6 +4,10 @@ Use this worksheet before publishing a new landing page, refreshing an old campa
 
 The awesome list remains public and CC0. If this checklist saves you time, you can support the project by buying the optional $12 supporter copy: https://buy.stripe.com/00w14p6Jz7d55qe5ZA8so03
 
+Want a second pass on one public page? Order the $12 Landing Page Mini Review: https://buy.stripe.com/14AcN4135dVe0y7crTaMU02
+
+Do not submit private dashboards, credentials, customer data, or unpublished pages.
+
 ## 1. Offer Clarity
 
 - [ ] The headline names the product, service, or outcome without requiring extra context.

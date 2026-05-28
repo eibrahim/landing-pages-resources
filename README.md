@@ -2,11 +2,12 @@
 
 **Note:** [On Product Hunt](https://www.producthunt.com/posts/awesome-list-of-landing-pages-and-other-marketing-resources)
 
-**Optional supporter resource:** The list stays public and CC0. If you want a practical review worksheet, use the public [Landing Page Conversion Review Checklist](landing-page-review-checklist.md) or buy the optional [$12 supporter copy on Stripe](https://buy.stripe.com/00w14p6Jz7d55qe5ZA8so03).
+**Optional supporter resources:** The list stays public and CC0. Use the public [Landing Page Conversion Review Checklist](landing-page-review-checklist.md), buy the optional [$12 supporter copy on Stripe](https://buy.stripe.com/00w14p6Jz7d55qe5ZA8so03), or order a [$12 Landing Page Mini Review](https://buy.stripe.com/14AcN4135dVe0y7crTaMU02).
 
 ## Table of contents
 
   * [Landing Page Conversion Review Checklist](landing-page-review-checklist.md)
+  * [Landing Page Mini Review](#landing-page-mini-review)
   * [Landing page creation/platform](#landing-page-creationplatform)
   * [Analytics](#analytics)
   * [Landing Page Themes, Templates, and Plugins](#landing-page-themes-templates-and-plugins)
@@ -14,6 +15,12 @@
   * [Blogs](#blogs)
   * [Broadcasts and Presentations](#broadcasts-and-presentations)
   * [Books](#books)
+
+## Landing Page Mini Review
+
+Need a quick second pass on one public page? Order the [$12 Landing Page Mini Review](https://buy.stripe.com/14AcN4135dVe0y7crTaMU02). You send one public URL and the main conversion concern; you get a concise manual review covering offer clarity, audience match, proof, CTA, message flow, mobile fit, and tracking gaps.
+
+Do not submit private dashboards, credentials, customer data, or unpublished pages.
 
 ## Landing page creation/platform
 
