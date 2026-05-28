@@ -2,8 +2,11 @@
 
 **Note:** [On Product Hunt](https://www.producthunt.com/posts/awesome-list-of-landing-pages-and-other-marketing-resources)
 
+**Optional supporter resource:** The list stays public and CC0. If you want a practical review worksheet, use the public [Landing Page Conversion Review Checklist](landing-page-review-checklist.md) or buy the optional [$12 supporter copy on Stripe](https://buy.stripe.com/00w14p6Jz7d55qe5ZA8so03).
+
 ## Table of contents
 
+  * [Landing Page Conversion Review Checklist](landing-page-review-checklist.md)
   * [Landing page creation/platform](#landing-page-creationplatform)
   * [Analytics](#analytics)
   * [Landing Page Themes, Templates, and Plugins](#landing-page-themes-templates-and-plugins)
@@ -180,4 +183,3 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Emad Ibrahim has waived all copyright and related or neighboring rights to this work.
-
