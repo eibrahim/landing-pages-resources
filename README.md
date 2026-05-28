@@ -2,7 +2,7 @@
 
 **Note:** [On Product Hunt](https://www.producthunt.com/posts/awesome-list-of-landing-pages-and-other-marketing-resources)
 
-**Optional supporter resources:** The list stays public and CC0. Use the public [Landing Page Conversion Review Checklist](landing-page-review-checklist.md), buy the optional [$12 supporter copy on Stripe](https://buy.stripe.com/00w14p6Jz7d55qe5ZA8so03), or order a [$12 Landing Page Mini Review](https://buy.stripe.com/14AcN4135dVe0y7crTaMU02).
+**Optional supporter resources:** The list stays public and CC0. Use the public [Landing Page Conversion Review Checklist](landing-page-review-checklist.md), buy the optional [$12 supporter copy on Stripe](https://buy.stripe.com/6oU00idPR18s0y71NfaMU05), or order a [$12 Landing Page Mini Review](https://buy.stripe.com/14AcN4135dVe0y7crTaMU02).
 
 ## Table of contents
 
