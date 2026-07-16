@@ -121,6 +121,7 @@ Do not submit private dashboards, credentials, customer data, or unpublished pag
 * [Cross Browser Testing](https://crossbrowsertesting.com): Test your landing pages across different browsers.
 * [Five Second test](http://fivesecondtest.com): Measure first impressions of your page or website.
 * [User Testing](https://www.usertesting.com): Unlock customer insights and increase revenue.
+* [SaaS Localization Visual QA Checklist](https://chris-saas-services.stomeonst123.chatgpt.site/resources/saas-localization-visual-checklist): Check English and Simplified Chinese landing pages for visual, message, pricing, trust, form, and mobile inconsistencies.
 * [Optimizely:](https://www.optimizely.com/&sa=D&ust=1507602582983000&usg=AFQjCNGpcPvalCPFkz4wBOs_T-m7AHTxnQ) Experiment on everything about your landing page.
 * [Visual Website Optimizer](https://vwo.com): A/B testing and conversion optimization platform.
 * [Convert](https://www.convert.com): A/B testing tools for landing pages and enterprises.
