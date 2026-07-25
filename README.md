@@ -128,6 +128,7 @@ Do not submit private dashboards, credentials, customer data, or unpublished pag
 * [Closeheat](http://closeheat.com): Visual editing for landing pages.
 * [Smart Forms](https://www.reachforce.com/marketsmarter): Automate data collection and enrich web forms with high-quality data in real-time.
 * [Users Think](http://usersthink.com): Get user feedback from real people. Learn what works and what doesn't in your landing page.
+* [Landing Copy Grader](https://parweb.github.io/landing-copy-grader/): Scores your hero copy from 0 to 100 against a fixed checklist of AI-writing tells. Runs in the browser, no signup, open source.
 
 ## Blogs
 
