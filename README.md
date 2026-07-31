@@ -128,6 +128,7 @@ Do not submit private dashboards, credentials, customer data, or unpublished pag
 * [Closeheat](http://closeheat.com): Visual editing for landing pages.
 * [Smart Forms](https://www.reachforce.com/marketsmarter): Automate data collection and enrich web forms with high-quality data in real-time.
 * [Users Think](http://usersthink.com): Get user feedback from real people. Learn what works and what doesn't in your landing page.
+* [Klinky](https://klinky.io): A/B testing link shortener that splits one link between two landing pages at configurable weights and tracks clicks per variant.
 
 ## Blogs
 
