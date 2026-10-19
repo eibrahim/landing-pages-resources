@@ -67,6 +67,7 @@ Do not submit private dashboards, credentials, customer data, or unpublished pag
 * [Xtensio](https://xtensio.com/landing-page): Free forever landing page creator.
 * [Formstack](https://www.formstack.com): Intelligent forms for every team.
 * [Strikingly](https://www.strikingly.com): Conquer The World With Just One Page.
+* [Helmpages](https://helmpages.com/): Websites for independent professionals and small businesses, built and kept current by sending a message. Paid, with a free trial.
 
 ## Analytics
 
