@@ -113,6 +113,7 @@ Do not submit private dashboards, credentials, customer data, or unpublished pag
 
 ## User Experience, Testing, and Optimization Tools
 
+* [AdVariq](https://advariq.com): AI commercial ad creative and marketing visual generator for landing page conversion optimization.
 * [Optimal Workshop](https://www.optimalworkshop.com): Helps you and your team make design decisions with confidence.
 * [Usabilla](https://usabilla.com): Landing page analytics to ensure great user experience for your audience.
 * [Usability Hub](https://usabilityhub.com): Fast user testing for landing pages.
