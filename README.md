@@ -110,6 +110,7 @@ Do not submit private dashboards, credentials, customer data, or unpublished pag
 * [WP Procount](https://codecanyon.net/item/wp-procount-responsive-countdown-landing-page/5865395): A minimalistic, lightweight, simple, clean and fully responsive mobile friendly landing page Wordpress plugin.
 * [Landing Page by Web Settler](https://wordpress.org/plugins/ultimate-landing-page): Cr eate beautiful and high converting landing pages in mere minutes without writing a single line of code.
 * [Lapa Ninja](https://lapa.ninja): The Best Landing Page Inspiration.
+* [UKD Store Free Templates](https://store.usmankhairdin.com/collections/free-templates/): Free one-page HTML/CSS/JS landing page templates for small businesses, MIT licensed, with live demos.
 
 ## User Experience, Testing, and Optimization Tools
 
